@@ -1,2 +1,7 @@
 # UltracosmicShooter
-Actual SchoolSim
+Actual shooter game
+Controls:
+R - restart
+F - melee combat
+MouseLeft - shoot
+a/d - movement
